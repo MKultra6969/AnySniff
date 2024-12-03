@@ -1,5 +1,6 @@
 # 💀AnySniff
-![изображение](https://github.com/user-attachments/assets/b0690927-2fe8-449b-b5d0-c15d7f9faa0a)
+![WindowsTerminal_EXgGPGWIwz_transparent](https://github.com/user-attachments/assets/cd05cce0-60c9-4f02-a5e1-4d51f5b2b25b)
+
 
 AnySniff is a tool for monitoring TCP connections of processes like AnyDesk on Windows. It uses the CVE-2024-52940 vulnerability to track open connections and log IPs, ports, and other relevant details.
 
