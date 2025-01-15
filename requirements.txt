@@ -1,3 +1,4 @@
 colorama
 pyfiglet
 pyarmor
+requests
